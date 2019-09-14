@@ -1,0 +1,3 @@
+[submodule "sanic-webhook"]
+	path = sanic-webhook
+	url = git@github.com:harshanarayana/sanic-webhook.git

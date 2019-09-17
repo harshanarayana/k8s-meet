@@ -1,3 +1,6 @@
 [submodule "sanic-webhook"]
 	path = sanic-webhook
 	url = git@github.com:harshanarayana/sanic-webhook.git
+[submodule "go-webhook"]
+	path = go-webhook
+	url = git@github.com:harshanarayana/go-webhook.git
